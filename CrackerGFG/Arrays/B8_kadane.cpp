@@ -1,3 +1,5 @@
+// Using Kadane algo
+
 int maxSubarraySum(int arr[], int n){
         
     int maxEndingHere = 0, maxSoFar = 0;
