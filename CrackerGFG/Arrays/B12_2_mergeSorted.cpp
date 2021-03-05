@@ -24,6 +24,6 @@ void merge(int arr1[], int arr2[], int n, int m) {
     }
 }
 
-(I) Compare elements of arr1 to first element of arr2
-    (i) If arr1 element is greater then swap
-    (ii) After swapping, arrange arr2
+// (I) Compare elements of arr1 to first element of arr2
+//     (i) If arr1 element is greater then swap
+//     (ii) After swapping, arrange arr2
